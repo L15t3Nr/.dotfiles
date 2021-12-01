@@ -1,0 +1,8 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = 76982835+L15t3Nr@users.noreply.github.com
+	name = L15t3Nr
+[credential]
+	helper = cache
